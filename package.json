@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "cross-env": "5.0.5",
+    "lerna": "^3.22.1"
+  },
+  "scripts": {}
+}
